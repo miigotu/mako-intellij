@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.miigotu.makointellij.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.miigotu.makointellij.MyBundle
 
 class MyApplicationService {
 
